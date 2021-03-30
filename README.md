@@ -1,10 +1,6 @@
 # Learning CS229
 The repo records my solutions to all assignments and projects of Stanford CS229 Fall 2017.
 
-One of many my self-studied courses. You can also check out some of them via belowing links:
-- [CS224n Natural Language Processing with Deep Learning, Stanford](https://github.com/seadragnol/Learning_CS224n)
-- [CS224w Machine Learning with Graphs, Stanford](https://github.com/seadragnol/Learning_CS224w)
-
 > *It's the open Internet and the great and kind minds that makes a glance at the beautiful knowledge world possible for us navigators.*
 
 ***Thousand Thanks** to those kind and cool people!*
